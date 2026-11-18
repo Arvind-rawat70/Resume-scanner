@@ -1,11 +1,11 @@
 # Resume Matcher
-
 A recruiter-focused application that compares multiple candidate resumes with a job description and produces an explainable match ranking.
+
+<img width="1901" height="866" alt="Screenshot 2026-11-18 155050" src="https://github.com/user-attachments/assets/4deac325-489f-4eee-b653-08e26aeb750d" />
 
 ## Project Aim
 
 Recruiters often need to review many resumes manually against the same set of role requirements. Resume Matcher aims to reduce that workload by:
-
 - Parsing a job description into structured requirements
 - Separating required and preferred skills
 - Extracting candidate information from PDF and DOCX resumes
@@ -14,6 +14,8 @@ Recruiters often need to review many resumes manually against the same set of ro
 - Providing reasons behind every match score
 
 The project is currently a local full-stack prototype. The React interface and FastAPI services handle the recruiter workflow, while PostgreSQL Docker configuration provides the intended data-persistence layer.
+
+<img width="1896" height="863" alt="Screenshot 2026-11-18 155035" src="https://github.com/user-attachments/assets/05c06ff3-eb21-4a2b-befc-312f741c8372" />
 
 ## Implemented Modules
 
