@@ -1,0 +1,31 @@
+Senior Java Backend Developer
+
+About Us
+We are a fintech company building payment infrastructure used across Asia. We run on AWS and Kubernetes.
+
+Job Summary
+We are looking for a Senior Java Backend Developer to design and build scalable payment services. You will work closely with product and QA teams in an agile environment.
+
+Responsibilities
+- Design, develop and maintain RESTful microservices using Java and Spring Boot
+- Optimize SQL queries and data models in PostgreSQL
+- Write unit tests with JUnit and participate in code reviews
+- Build and maintain CI/CD pipelines with Jenkins and Docker
+- Mentor junior engineers and contribute to system design discussions
+
+Requirements
+- 5+ years of professional experience in backend development
+- Strong hands-on experience with Java 11+ and Spring Boot
+- Solid understanding of microservices architecture and REST APIs
+- Good knowledge of SQL and relational databases
+- Bachelor's degree in Computer Science, Information Technology or a related field
+- Excellent communication and problem-solving skills
+
+Nice to have
+- Experience with Kafka or RabbitMQ
+- Exposure to AWS (EC2, S3) and Kubernetes
+- AWS Certified Developer certification
+- Master's degree in Computer Science
+
+Benefits
+Health insurance, flexible hours, learning budget.
